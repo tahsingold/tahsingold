@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Hakkımda Kısaca
-- 💼 **Meslek Lisesi mezunuyum** (Bilgisayar Teknolojileri / Yazılım Geliştirme dalı)  
+- 💼 **Meslek Lisesi mezunuyum** (Bilgisayar Teknolojileri / Yazılım Geliştirme)  
 - 📚 Şu anda **BTK Akademi** üzerinden **Yapay Zeka** kurslarına devam ediyorum  
 - 💡 Hem teorik hem de uygulamalı olarak yazılım geliştirme becerilerimi geliştiriyorum  
 - 🌱 Amacım: Gerçek dünya projelerinde aktif rol almak ve üretken bir yazılım geliştirici olmak  

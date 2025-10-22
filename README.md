@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Tahsin Altın</h1>
+<h1 align="center">👋 Merhaba, Ben Tahsin ALTIN</h1>
 
 <p align="center">
 🎓 Kütahya Dumlupınar Üniversitesi - Bilgisayar Programcılığı öğrencisiyim.<br>

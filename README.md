@@ -39,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahsingold&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahsingold&theme=tokyonight" alt="GitHub Streak" width="49%">
 </p>
 
 ---

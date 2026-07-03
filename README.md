@@ -12,7 +12,6 @@
 - 🏫 **Eğitim:** Meslek Lisesi (Bilişim Teknolojileri) mezunuyum ve şu an Dumlupınar Üniversitesi'nde 2. sınıf Bilgisayar Programcılığı okuyorum.
 - 💼 **Deneyim:** Gürok Grup (LAV Cam) bünyesinde 9 ay süren yoğun bir bilgi işlem stajı tamamladım. Ayrıca Temmuz 2026 itibarıyla Martur Fompak bünyesinde staj sürecime başladım.
 - 💡 **Gelişim:** Yazılım geliştirmeye olan tutkumu Laravel, PHP, C# ve Flutter gibi farklı teknolojilerde derinleşerek sürdürüyorum.
-- 🛠️ **Hobi & Donanım:** 3D yazıcı (Ender 3 Neo - Direct Drive modifiyeli) ve motosiklet mekaniği (Bajaj Pulsar RS200) ile ilgileniyor, kendi donanım projelerimi üretiyorum.
 - 🐧 **İşletim Sistemi:** Geliştirme ortamı olarak Windows, Arch Linux, Ubuntu Linux tercih ediyorum.
 
 ---
